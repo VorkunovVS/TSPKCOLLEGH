@@ -1,0 +1,217 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    background-color: #19374A;
+}
+
+.leftH{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 550px;
+}
+
+.leftH p{
+    color: #fff;
+    font-size: 20px;
+    width: 350px;
+    margin: 0px;
+}
+
+.rightH{
+    display: flex;
+    justify-content: space-between;
+    width: 425px;
+    margin-left: 400px;
+}
+
+.in , .up{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px #D9EAF2;
+    border-radius: 4px;
+    background-color: #19374A;
+    color: #D9EAF2;
+    height: 50px;
+}
+
+.up{
+    width: 250px;
+    font-size: 20px;
+}
+
+.in{
+    width: 150px;
+    font-size: 20px;
+}
+
+.H2 {
+    font-size: 22px;
+    color: #19374A;
+    margin-top: 30px;
+}
+
+.H1 {
+    font-size: 24px;
+    color: #19374A;
+    font-weight: 500;
+    margin-top: -15px;
+}
+
+.H1 , .H2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.firstPart{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.cont-left{
+    height: 250px;
+    width: 35px;
+    border-radius: 4px 200px 200px 4px;
+    background-color: #19374A;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    height: 878px;
+    width: 1613px;
+    background-color: #19374A;
+    background-image: url(/img/wave.png);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+
+.cont{
+    margin-left: 70px;
+    margin-top: 50px;
+}
+
+.rightSide{
+    color: #fff;
+
+}
+
+.h1{
+    font-size: 22px;
+    padding: 0;
+    margin: 0;
+}
+
+.h2{
+    font-size: 20px;
+}
+
+.firstP , .secondP , .thirdP , .fourthP , .fifthP{
+    display: flex;
+    align-items: center;
+}
+
+.firstP p, .secondP p, .thirdP p, .fourthP p, .fifthP p{
+    margin-left: 15px;
+    font-size: 19px;
+}
+
+.card img{
+    height: 35px;
+    width: 35px;
+}
+
+.card p{
+    width: 1300px;
+}
+
+hr{
+    width: 250px;
+    margin-top: 25px;
+    margin-left: 0;
+    margin-bottom: 25px;
+}
+
+.footer{
+    background-color: #19374A;
+    height: 300px;
+    color: #fff;
+}
+
+.connection{
+    display: flex;
+    justify-content: space-around;
+}
+
+.corp{
+    display: flex;
+    justify-content: center;
+}
+
+.tPhone{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.firstCorp{
+    margin-right: 20px;
+    font-size: 12px;
+    margin-left: 100px;
+}
+
+.secondCorp{
+    border-left: solid 1px white;
+    padding-left: 20px;
+    font-size: 12px;
+}
+
+.leftCon h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: normal;
+}
+
+.rightCon h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: normal;
+}
+
+.SN{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rightCon p{
+    font-size: 12px;
+}
+
+h4{
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}

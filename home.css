@@ -1,0 +1,289 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header{
+    background-color: #19374A;
+    height: 634px;
+}
+
+.had{
+    display: flex;
+    align-items: center;
+}
+
+.leftH p{
+    color: #fff;
+    font-size: 20px;
+    width: 400px;
+}
+
+.leftH{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -277px;
+    width: 500px;
+    align-items: center;
+    margin-left: -100px;
+}
+
+.in , .up{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px #D9EAF2;
+    border-radius: 4px;
+    background-color: #19374A;
+    color: #D9EAF2;
+    height: 50px;
+}
+
+.rightH{
+    margin-top: -277px;
+    margin-left: 500px;
+    display: flex;
+    justify-content: space-between;
+    width: 425px;
+}
+
+.up{
+    width: 250px;
+    font-size: 20px;
+}
+
+.in{
+    width: 150px;
+    font-size: 20px;
+}
+
+
+
+
+
+.slogan{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -180px;
+}
+
+.tspk p{
+    font-size: 32px;
+    color: #fff;
+    width: 600px;
+    font-weight: 500;
+}
+
+.purpose{
+    font-size: 25px;
+    color: #fff;
+    width: 500px;
+}
+
+.cont-left{
+    height: 250px;
+    width: 35px;
+    border-radius: 4px 200px 200px 4px;
+    background-color: #D1E7F1;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.cont-center{
+    margin-left: -180px;
+}
+
+.cont-right img{
+    margin-top: -105px;
+    height: 450px;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.firstCard , .secondCard , .thirdCard{
+    width: 420px;
+    height: 130px;
+    border-radius: 8px;
+    border: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.5);
+}
+
+.number{
+    font-size: 52px;
+    color: #0A4B6B;
+    font-weight: bold;
+}
+
+.text{
+    color: #828282;
+    font-size: 20px;
+    width: 220px;
+}
+
+.secondCard , .thirdCard{
+    margin-left: 60px;
+}
+
+.director{
+    background-image: url(img/blur.png);
+    background-color: #19374A;
+    width: 1530px;
+    height: 430px;
+    margin: 100px auto 50px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.leftText {
+    color: #fff;
+    width: 950px;
+}
+
+.leftText h3{
+    display: flex;
+    justify-content: center;
+    font-weight: normal;
+    margin-bottom: 50px;
+}
+
+.rightImg{
+    margin-right: 30px;
+}
+
+.handwriting{
+    margin-top: 60px;
+}
+
+h2{
+    font-weight: normal;
+    color: #19374A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.firstbd , .secondbd{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.secondbd{
+    margin-bottom: 100px;
+}
+
+.card{
+    width: 303px;
+    height: 269px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    border: 1px solid #BABABA;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.Up{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+}
+
+.Down img{
+    margin-bottom: -4px;
+    border-radius: 0 0 10px 10px;
+}
+
+.card p{
+    font-size: 20px;
+    color: #19374A;
+    width: 200px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.footer{
+    background-color: #19374A;
+    height: 300px;
+    color: #fff;
+}
+
+.connection{
+    display: flex;
+    justify-content: space-around;
+}
+
+.corp{
+    display: flex;
+    justify-content: center;
+}
+
+.tPhone{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.firstCorp{
+    margin-right: 20px;
+    font-size: 12px;
+    margin-left: 100px;
+}
+
+.secondCorp{
+    border-left: solid 1px white;
+    padding-left: 20px;
+    font-size: 12px;
+}
+
+.leftCon h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: normal;
+}
+
+.rightCon h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: normal;
+}
+
+.SN{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rightCon p{
+    font-size: 12px;
+}
+
+h4{
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}

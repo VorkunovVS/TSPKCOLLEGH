@@ -1,0 +1,246 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    background-color: #19374A;
+}
+
+.leftH{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 550px;
+}
+
+.leftH p{
+    color: #fff;
+    font-size: 20px;
+    width: 350px;
+    margin: 0px;
+}
+
+.rightH{
+    display: flex;
+    justify-content: space-between;
+    width: 425px;
+    margin-left: 400px;
+}
+
+.in , .up{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px #D9EAF2;
+    border-radius: 4px;
+    background-color: #19374A;
+    color: #D9EAF2;
+    height: 50px;
+}
+
+.up{
+    width: 250px;
+    font-size: 20px;
+}
+
+.in{
+    width: 150px;
+    font-size: 20px;
+}
+
+.heading{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    color: #19374A;
+    font-weight: 500;
+}
+
+.cont-left{
+    height: 250px;
+    width: 35px;
+    border-radius: 4px 200px 200px 4px;
+    background-color: #19374A;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.conteiner{
+    margin-top: 20px;
+    display: flex;
+
+}
+
+.rightSide{
+    margin-top: 20px;
+}
+
+.panel , .panel2{
+    display: flex;
+    justify-content: start;
+    margin-bottom: 100px;
+}
+
+.panel2{
+    margin-left: 280px;
+}
+
+.card{
+    display: flex;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.50);
+    margin-left: 40px;
+    height: 397px;
+
+}
+
+.rightC{
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+.h1{
+    font-size: 20px;
+    color: #19374A;
+    width: 330px;
+    height: 50px;
+}
+
+.h2{
+    font-size: 15px;
+    color: #19374A;
+}
+
+.seat , .dot , .OnIn , .base9 , .base11{
+    font-size: 16px;
+    color: #19374A;
+}
+
+.dot , .seat , .OnIn{
+    text-align: center;
+}
+
+.seat{
+    border-bottom: 1px solid #19374A;
+    width: 200px;
+    margin: 0 auto;
+    padding-bottom: 5px;
+}
+
+.dot{
+    margin-top: -0px;
+    padding-top: 5px;
+}
+
+.h2{
+    width: 300px;
+    height: 70px;
+}
+
+.OnIn{
+    margin-top: -15px;
+    margin-bottom: 20px;
+}
+
+.base11{
+    margin-top: -10px;
+}
+
+.h1 , .h2 , .OnIn , .base9 , .base11{
+    font-weight: bold;
+}
+
+.base{
+    height: 60px;
+}
+
+.more{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px #19374A;
+    border-radius: 4px;
+    background-color: #fff;
+    color: #19374A;
+    height: 50px;
+    font-size: 20px;
+    width: 70%;
+    margin: 15px auto 0;
+}
+
+.footer{
+    background-color: #19374A;
+    height: 300px;
+    color: #fff;
+}
+
+.connection{
+    display: flex;
+    justify-content: space-around;
+}
+
+.corp{
+    display: flex;
+    justify-content: center;
+}
+
+.tPhone{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.firstCorp{
+    margin-right: 20px;
+    font-size: 12px;
+    margin-left: 100px;
+}
+
+.secondCorp{
+    border-left: solid 1px white;
+    padding-left: 20px;
+    font-size: 12px;
+}
+
+.leftCon h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: normal;
+}
+
+.rightCon h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: normal;
+}
+
+.SN{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rightCon p{
+    font-size: 12px;
+}
+
+h4{
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}

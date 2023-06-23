@@ -1,0 +1,298 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    background-color: #19374A;
+}
+
+.leftH{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 550px;
+}
+
+.leftH p{
+    color: #fff;
+    font-size: 20px;
+    width: 350px;
+    margin: 0px;
+}
+
+.rightH{
+    display: flex;
+    justify-content: space-between;
+    width: 425px;
+    margin-left: 400px;
+}
+
+.in , .up{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px #D9EAF2;
+    border-radius: 4px;
+    background-color: #19374A;
+    color: #D9EAF2;
+    height: 50px;
+}
+
+.up{
+    width: 250px;
+    font-size: 20px;
+}
+
+.in{
+    width: 150px;
+    font-size: 20px;
+}
+
+.heading{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    color: #19374A;
+    font-weight: 500;
+}
+
+.heading2 {
+    margin-left: 645px;
+    color: #19374A;
+    font-weight: 500;
+    
+    font-size: 20px;
+}
+
+.firstP{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cont-left{
+    height: 250px;
+    width: 35px;
+    border-radius: 4px 200px 200px 4px;
+    background-color: #19374A;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.rightSide{
+    display: flex;
+    flex-direction: column;
+}
+
+.chart{
+    display: flex;
+    width: 1700px;
+    height: 500px;
+    background-color: #19374A;
+    border-radius: 500px 0px 0px 500px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.chart2{
+    display: flex;
+    width: 1700px;
+    height: 500px;
+    background-color: #19374A;
+    border-radius: 0px 500px 500px 0px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.chart_cont{
+    width: 1400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.chart_cont2{
+    width: 1660px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.circle{
+    height: 450px;
+    width: 450px;
+    background-color: #fff;
+    border-radius: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+}
+
+.circle p{
+    font-size: 30px;
+    color: #19374A;
+    text-align: center;
+    width: 80%;
+}
+
+.table{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 700px;
+    color: #fff;
+}
+
+.table2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 700px;
+    color: #fff;
+    margin-left: 360px;
+}
+
+.leftT{
+    text-align: right;
+    font-size: 20px;
+    margin-left: -5px;
+}
+
+.rightT{
+    border-left: 1px solid #fff;
+    padding-left: 100px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+.firstbd {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1300px;
+    margin: 0 auto;
+}
+
+.card{
+    width: 303px;
+    height: 320px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    border: 1px solid #BABABA;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin-bottom: 30px;
+}
+
+.Up{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+}
+
+.Down img{
+    margin-bottom: -4px;
+    border-radius: 0 0 10px 10px;
+}
+
+.card p{
+    font-size: 20px;
+    color: #19374A;
+    width: 200px;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+.footer{
+    background-color: #19374A;
+    height: 300px;
+    color: #fff;
+}
+
+.connection{
+    display: flex;
+    justify-content: space-around;
+}
+
+.corp{
+    display: flex;
+    justify-content: center;
+}
+
+.tPhone{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.firstCorp{
+    margin-right: 20px;
+    font-size: 12px;
+    margin-left: 100px;
+}
+
+.secondCorp{
+    border-left: solid 1px white;
+    padding-left: 20px;
+    font-size: 12px;
+}
+
+.leftCon h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: normal;
+}
+
+.rightCon h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: normal;
+}
+
+.SN{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rightCon p{
+    font-size: 12px;
+}
+
+h4{
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}

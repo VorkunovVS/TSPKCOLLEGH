@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    background-color: #19374A;
+}
+
+.leftH{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 550px;
+}
+
+.leftH p{
+    color: #fff;
+    font-size: 20px;
+    width: 350px;
+    margin: 0px;
+}
+
+.rightH{
+    display: flex;
+    justify-content: end;
+    width: 425px;
+    margin-left: 400px;
+}
+
+.rightH img{
+    margin-left: 20px;
+}
+
+.adm img{
+    margin-top: -20px;
+}

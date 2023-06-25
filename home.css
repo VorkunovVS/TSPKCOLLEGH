@@ -43,8 +43,16 @@ body{
     margin-top: -277px;
     margin-left: 500px;
     display: flex;
-    justify-content: space-between;
+    justify-content: end;
     width: 425px;
+}
+
+.rightH img{
+    margin-left: 20px;
+}
+
+.adm img{
+    margin-top: -20px;
 }
 
 .up{
@@ -90,13 +98,10 @@ body{
     justify-content: center;
 }
 
-.cont-center{
-    margin-left: -180px;
-}
-
 .cont-right img{
     margin-top: -105px;
     height: 450px;
+    margin-right: 110px;
 }
 
 .cards{

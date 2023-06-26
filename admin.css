@@ -1,0 +1,192 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    background-color: #19374A;
+}
+
+.leftH{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 550px;
+}
+
+.leftH p{
+    color: #fff;
+    font-size: 20px;
+    width: 350px;
+    margin: 0px;
+}
+
+.rightH{
+    display: flex;
+    justify-content: end;
+    width: 425px;
+    margin-left: 400px;
+}
+
+.rightH img{
+    margin-left: 20px;
+}
+
+.left{
+    width: 300px;
+    border-right: 5px solid #19374A;
+    height: 1500px;
+}
+
+.leftH1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.H1{
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    color: #19374A;
+    border-bottom: 1px solid #19374A;
+    width: 250px;
+    padding-bottom: 15px;
+}
+
+.main{
+    display: flex;
+}
+
+.right{
+    margin-left: 80px;
+}
+
+.text{
+    margin-left: 80px;
+}
+
+.H2{
+    font-size: 24px;
+    color: #19374A;
+}
+
+.table{
+    display: flex;
+    justify-content: space-between;
+}
+
+.polz , .prep , .ych , .spec{
+    width: 350px;
+    text-align: center;
+}
+
+.polz{
+    background-color: #FDEED9;
+    color: #FF9C12;
+}
+
+.prep{
+    background-color: #C6D8FF;
+    color: #1761FF;
+}
+
+.ych{
+    background-color: #B5F2EA;
+    color: #00A892;
+}
+
+.spec{
+    background-color: #FED6BC;
+    color: #FE7821;
+}
+
+.polz p, .prep p, .ych p, .spec p{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.chart{
+    padding: 15px;
+    border: 1px solid gainsboro;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    border-radius: 20px;
+}
+
+.footer{
+    background-color: #19374A;
+    height: 300px;
+    color: #fff;
+}
+
+.connection{
+    display: flex;
+    justify-content: space-around;
+}
+
+.corp{
+    display: flex;
+    justify-content: center;
+}
+
+.tPhone{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.firstCorp{
+    margin-right: 20px;
+    font-size: 12px;
+    margin-left: 100px;
+}
+
+.secondCorp{
+    border-left: solid 1px white;
+    padding-left: 20px;
+    font-size: 12px;
+}
+
+.leftCon h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: normal;
+}
+
+.rightCon h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: normal;
+}
+
+.SN{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rightCon p{
+    font-size: 12px;
+}
+
+h4{
+    font-weight: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+}

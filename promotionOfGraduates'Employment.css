@@ -7,6 +7,10 @@ a{
     text-decoration: none;
 }
 
+.rightSide{
+    margin-left: 185px;
+}
+
 .header{
     display: flex;
     align-items: center;
